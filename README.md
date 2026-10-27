@@ -1,6 +1,6 @@
 # React Exercises
 
-A collection of React exercises. Exercise 1 sets up a React app with Vite and displays a custom page.
+A collection of React exercises. Exercise 1 sets up a React app with Vite, and exercise 2 adds a page styled with Tailwind CSS.
 
 ## Getting started
 
@@ -15,7 +15,7 @@ npm run dev
 
 Open the local URL shown in the terminal to see the page. Press `Ctrl+C` to stop the server.
 
-The page content is in `src/App.jsx`, and the browser tab title is in `index.html`.
+The page content and Tailwind utility classes are in `src/App.jsx`. Tailwind is imported in `src/index.css` and configured in `vite.config.js`. The example button demonstrates styling and has no action.
 
 ## Checks
 
